@@ -1,16 +1,57 @@
-# 🛠️ refrigestion (aplicacion desktop)
-app desarrollada en **.Net6 y windowsforms** para generar reportes de servicios realizados.
-Permite emitir un pdf, a modo de garantia,con los datos del cliente, el equipo y el servicio detallado.
+# 🛠️ Refrigestion (Aplicación Desktop)
 
+Aplicación de escritorio desarrollada en **.NET 6 y Windows Forms** para la gestión de servicios técnicos y generación de reportes.  
+
+Permite emitir un **PDF de garantía** con los datos del cliente, el equipo y el detalle del servicio realizado.  
+
+---
+
+## 🚀 Tecnologías
+- .NET 6  
+- Windows Forms  
+- QuestPDF
+
+---
+
+## ✨ Funcionalidades
+- Gestión de **clientes** y **equipos**  
+- Registro de **servicios realizados**  
+- Emisión de **reportes en PDF** a modo de garantía  
+- Visualización de clientes, equipos y reportes guardados  
+
+---
+
+## 📸 Capturas de pantalla
+
+### Menú principal
 ![Menú](./assets/menu.png)
+
+### Crear nuevo reporte
 ![Nuevo reporte](./assets/nuevoReporte.png)
-![Nuevo cliente](./assets/nuevoCliente.png)
-![Confirmacion cliente](./assets/clienteGuardado.png)
-![Nuevo equipo](./assets/nuevoEquipo.png)
-![Confirmacion equipo](./assets/equipoGuardado.png)
-![Reporte](./assets/reporte.png)
-![Confirmacion reporte](./assets/servicioGuardado.png)
+
+### Registrar un cliente
+![Nuevo cliente](./assets/nuevoCliente.png)  
+![Confirmación cliente](./assets/clienteGuardado.png)
+
+### Registrar un equipo
+![Nuevo equipo](./assets/nuevoEquipo.png)  
+![Confirmación equipo](./assets/equipoGuardado.png)
+
+### Guardar y visualizar un reporte
+![Reporte](./assets/reporte.png)  
+![Confirmación reporte](./assets/servicioGuardado.png)
+
+### Listado de reportes
 ![Ver reportes](./assets/verReportes.png)
-![Generar reporte en pdf](./assets/pdfCreado.png)
+
+### Generar reporte en PDF
+![Generar reporte en pdf](./assets/pdfCreado.png)  
 ![PDF](./assets/pdf.png)
+
+### Listado de clientes
 ![Ver clientes](./assets/verClientes.png)
+
+---
+
+## 👨‍💻 Autor
+Desarrollado por **Javier Aguirre**  
